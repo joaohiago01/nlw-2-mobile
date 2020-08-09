@@ -47,7 +47,7 @@ function TeacherList() {
                 subject,
                 week_day,
                 time
-            }
+            },
         });
 
         setIsFiltersVisible(false);
